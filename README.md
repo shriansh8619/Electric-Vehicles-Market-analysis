@@ -28,4 +28,4 @@ o	Seattle, Bellevue, and Vancouver are the top cities adopting EVs.<br>
 o	This insight can help policymakers and businesses target these regions for further infrastructure development (e.g., charging stations).<br>
 7.	Filter Interactivity:<br>
 o	Filters by city, utility, and vehicle type allow detailed exploration of trends, enabling customized insights for specific audiences or business cases.<br>
-Data Source:𝘩𝘵𝘵𝘱𝘴://𝘤𝘢𝘵𝘢𝘭𝘰𝘨.𝘥𝘢𝘵𝘢.𝘨𝘰𝘷/𝘥𝘢𝘵𝘢𝘴𝘦𝘵/𝘦𝘭𝘦𝘤𝘵𝘳𝘪𝘤-𝘷𝘦𝘩𝘪𝘤𝘭𝘦-𝘱𝘰𝘱𝘶𝘭𝘢𝘵𝘪𝘰𝘯-𝘥𝘢𝘵𝘢
+Data Source: 𝘩𝘵𝘵𝘱𝘴://𝘤𝘢𝘵𝘢𝘭𝘰𝘨.𝘥𝘢𝘵𝘢.𝘨𝘰𝘷/𝘥𝘢𝘵𝘢𝘴𝘦𝘵/𝘦𝘭𝘦𝘤𝘵𝘳𝘪𝘤-𝘷𝘦𝘩𝘪𝘤𝘭𝘦-𝘱𝘰𝘱𝘶𝘭𝘢𝘵𝘪𝘰𝘯-𝘥𝘢𝘵𝘢
